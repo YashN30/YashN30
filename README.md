@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashN30
 - 👀 I’m interested in experimenting and learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yash.nimburkar.7@gmail.com
 
