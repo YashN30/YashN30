@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashN30
+- 👋 Hi, I’m @Talksick30
 - 👀 I’m interested in experimenting and learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
