@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Talksick30
-- 👀 I’m interested in experimenting and learning
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @yash-nimburkar
+- 👀 I’m interested in exploring new things.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to learn and contribute to the the community.
 - 📫 How to reach me yash.nimburkar.7@gmail.com
 
 <!---
